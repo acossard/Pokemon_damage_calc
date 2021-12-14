@@ -1,5 +1,4 @@
 """
-Anthony DePerno 
 pokemon and moves classes 
 
 define effective, kinda effective, and not effective dictionaries 
